@@ -108,18 +108,3 @@ The analysis provides a consolidated view of:
 * Outlet establishment performance
 
 The interactive dashboard allows users to filter these insights and explore specific business segments.
-
-## 💡 Skills Demonstrated
-
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis
-* KPI Analysis
-* Business Intelligence
-* Data Visualization
-* Excel Dashboard Development
-* Pivot Table Analysis
-* Interactive Reporting
-* Analytical Thinking
-
-**Skills:** SQL | Python | Excel | Power BI | Pandas | NumPy | Data Analytics
