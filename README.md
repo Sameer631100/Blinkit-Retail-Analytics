@@ -2,109 +2,143 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end analysis of **Blinkit's sales data** using **Microsoft Excel**. The objective was to transform raw sales data into an interactive dashboard that provides meaningful insights into sales performance, outlet characteristics, product categories, and customer ratings.
+This project presents an interactive **Blinkit Sales Analysis Dashboard** developed using **Microsoft Excel**. The objective of the project is to analyze sales performance, product characteristics, outlet performance, and customer ratings using key business metrics and interactive visualizations.
 
-The project focuses on **data cleaning, data transformation, KPI analysis, data visualization, and interactive reporting** to support data-driven decision-making.
+The raw data was cleaned and transformed before creating an interactive dashboard to generate meaningful insights from different aspects of the sales data.
 
 ## 🎯 Project Objectives
 
-* Analyze overall sales performance using key business KPIs.
-* Understand sales trends across different outlet characteristics.
-* Analyze the relationship between product attributes and sales.
-* Compare performance across different outlet locations and sizes.
-* Create an interactive dashboard for easy exploration of the data.
-* Present business insights through clear and dynamic visualizations.
+- Analyze overall sales performance using key KPIs.
+- Understand sales trends across different outlet characteristics.
+- Analyze sales based on product fat content and item type.
+- Compare performance across different outlet locations and outlet sizes.
+- Analyze outlet performance based on establishment year and outlet type.
+- Create an interactive dashboard for exploring sales data.
 
-## 📊 Key Features
+## 📊 Dashboard KPIs
 
-### KPI Dashboard
+The dashboard provides the following key performance indicators:
 
-The dashboard tracks important performance indicators, including:
+- **Total Sales:** $1.20M
+- **Average Sales:** $141
+- **Number of Items:** 8,523
+- **Average Rating:** 4.0
 
-* **Total Sales**
-* **Average Sales**
-* **Number of Items**
-* **Average Customer Rating**
+## 📈 Dashboard Visualizations
 
-### 📈 Interactive Visualizations
+### Outlet Establishment
 
-The dashboard includes multiple visualizations to analyze sales performance, such as:
+Analyzed sales performance based on the **outlet establishment year** to understand how sales have changed across different establishment periods.
 
-* Donut Charts
-* Funnel Charts
-* Bar Charts
-* Trend Analysis Charts
+### Fat Content Analysis
 
-These visualizations make it easier to identify patterns and compare different segments of the business.
+Used a **donut chart** to compare sales between:
 
-### 🧹 Data Processing
+- Low Fat
+- Regular
 
-The raw dataset was cleaned and transformed before analysis. This included:
+The dashboard also analyzes fat content across different outlet locations.
 
-* Data Cleaning
-* Data Transformation
-* Creating Calculated Columns
-* Preparing Data for Pivot Tables and Pivot Charts
-* Structuring the Dataset for Dashboard Analysis
+### Item Type Analysis
 
-### 🔎 Interactive Filters
+Used a horizontal bar chart to analyze sales across different **item types**, including:
 
-**Slicers** were implemented to allow users to dynamically filter the dashboard based on:
+- Fruits and Vegetables
+- Snack Foods
+- Household
+- Frozen Foods
+- Dairy
+- Canned
+- Baking Goods
+- Health and Hygiene
+- Cooking Oils
+- Soft Drinks
+- Breads
+- Hard Drinks
+- Others
+- Starchy Foods
+- Breakfast
+- Seafood
 
-* Outlet Size
-* Outlet Location
-* Item Type
+### Outlet Size Analysis
 
-This makes the dashboard interactive and allows users to explore specific segments of the dataset.
+Analyzed sales distribution across different outlet sizes:
+
+- High
+- Medium
+- Small
+
+### Outlet Location Analysis
+
+Compared outlet performance across:
+
+- Tier 1
+- Tier 2
+- Tier 3
+
+### Outlet Type Analysis
+
+Analyzed **average sales** and **number of items** across different outlet types, including:
+
+- Supermarket Type 1
+- Supermarket Type 2
+- Supermarket Type 3
+- Grocery Store
+
+## 🎛️ Interactive Filters
+
+The dashboard includes interactive slicers that allow users to filter the analysis based on:
+
+- **Outlet Size**
+- **Outlet Location**
+- **Item Type**
+
+These filters allow users to explore specific segments of the sales data.
 
 ## 🛠️ Tools & Technologies
 
-* **Microsoft Excel**
-
-  * Pivot Tables
-  * Pivot Charts
-  * Data Slicers
-  * Charts
-  * Conditional Formatting
-  * Data Cleaning
-  * Data Transformation
+- **Microsoft Excel**
+  - Pivot Tables
+  - Pivot Charts
+  - Data Slicers
+  - Charts
+  - Data Cleaning
+  - Data Transformation
+  - Dashboard Development
 
 ## 🔍 Analysis Performed
 
-### 1. Fat Content Analysis
+The project analyzes Blinkit sales data across multiple dimensions:
 
-Analyzed sales based on the **fat content** of products to understand how this attribute relates to overall sales performance.
+1. **Sales Performance**
+   - Total Sales
+   - Average Sales
+   - Number of Items
+   - Average Rating
 
-### 2. Outlet Establishment Analysis
+2. **Product Analysis**
+   - Item Type
+   - Fat Content
 
-Evaluated outlet performance based on their **establishment timeline** to identify sales trends over different periods.
+3. **Outlet Analysis**
+   - Outlet Size
+   - Outlet Location
+   - Outlet Type
+   - Outlet Establishment
 
-### 3. Outlet Location Analysis
+4. **Location-Based Analysis**
+   - Tier 1
+   - Tier 2
+   - Tier 3
 
-Compared sales performance across different outlet locations:
+## 💡 Key Insights
 
-* Tier 1
-* Tier 2
-* Tier 3
+The dashboard provides insights into:
 
-### 4. Outlet Size Analysis
-
-Analyzed how outlet size contributes to overall sales performance.
-
-### 5. Item Type Analysis
-
-Examined sales across different item types to understand product-level performance.
-
-## 📈 Key Insights
-
-The analysis provides a consolidated view of:
-
-* Overall sales performance
-* Average sales and customer ratings
-* Product-level sales patterns
-* Outlet performance
-* Location-based sales trends
-* Sales patterns based on product fat content
-* Outlet establishment performance
-
-The interactive dashboard allows users to filter these insights and explore specific business segments.
+- Overall sales performance.
+- Sales distribution based on fat content.
+- Performance of different item types.
+- Sales contribution across outlet sizes.
+- Sales trends across outlet establishment years.
+- Differences in performance between outlet locations.
+- Average sales and number of items across outlet types.
