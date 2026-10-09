@@ -41,7 +41,7 @@ The dashboard also analyzes fat content across different outlet locations.
 
 ### Item Type Analysis
 
-Used a horizontal bar chart to analyze sales across different **item types**, including:
+Used a horizontal bar chart to analyze sales across different **item types**.
 
 
 ### Outlet Size Analysis
