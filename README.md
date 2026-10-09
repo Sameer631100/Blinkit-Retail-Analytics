@@ -19,10 +19,10 @@ The raw data was cleaned and transformed before creating an interactive dashboar
 
 The dashboard provides the following key performance indicators:
 
-- **Total Sales:** $1.20M
-- **Average Sales:** $141
-- **Number of Items:** 8,523
-- **Average Rating:** 4.0
+- **Total Sales
+- **Average Sales
+- **Number of Items
+- **Average Rating
 
 ## 📈 Dashboard Visualizations
 
