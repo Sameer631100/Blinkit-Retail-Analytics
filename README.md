@@ -85,10 +85,6 @@ These filters allow users to explore specific segments of the sales data.
   - Pivot Tables
   - Pivot Charts
   - Data Slicers
-  - Charts
-  - Data Cleaning
-  - Data Transformation
-  - Dashboard Development
 
 ## 🔍 Analysis Performed
 
