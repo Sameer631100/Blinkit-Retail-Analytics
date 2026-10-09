@@ -43,22 +43,6 @@ The dashboard also analyzes fat content across different outlet locations.
 
 Used a horizontal bar chart to analyze sales across different **item types**, including:
 
-- Fruits and Vegetables
-- Snack Foods
-- Household
-- Frozen Foods
-- Dairy
-- Canned
-- Baking Goods
-- Health and Hygiene
-- Cooking Oils
-- Soft Drinks
-- Breads
-- Hard Drinks
-- Others
-- Starchy Foods
-- Breakfast
-- Seafood
 
 ### Outlet Size Analysis
 
